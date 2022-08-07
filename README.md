@@ -1,2 +1,2 @@
 # planer-quad
-Dynamics and control of as planer bi-rotor
+Dynamics and control of a planer bi-rotor
